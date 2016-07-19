@@ -1,2 +1,2 @@
-# scott-frost-private
+# scott-frost-tribute
 For practicing simple HTML/CSS
