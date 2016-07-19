@@ -1,0 +1,21 @@
+.frost-page{
+  font-family: Franklin Gothic Medium;
+  margin:50px;
+  color: #e60000;
+  text-align: center;
+}
+.main-title{
+  font-size: 56px;
+}
+.subtitle{
+  font-style:italic;
+}
+.pic-well{
+  background-color: #FFFFFF;
+  margin-right:450px;
+  margin-left:450px;
+}
+.frost-list{
+  display: inline-block;
+text-align:left;
+}
